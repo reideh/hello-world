@@ -4,7 +4,7 @@ num*=2
 
 num1=num+2
 
-num1+=3
+num1+=4
 
 print(num1)
 
